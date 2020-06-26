@@ -1,0 +1,15 @@
+
+{
+java:S1488&"YImmediately return this expression instead of assigning it to the temporary variable "v".(©éÀùÿÿÿÿ8¸©·®.
+H
+java:S1068"+Remove this unused "mParam2" private field.(¡ˆ€ 8ÄŸâè­.
+T
+java:S1135"2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ8«‘ùç­.
+T
+java:S1135"2Complete the task associated to this TODO comment.(ğï¢öúÿÿÿÿ8¸©·®.
+s
+java:S1450"VRemove the "mParam2" field and declare it as a local variable in the relevant methods.(¡ˆ€ 8ÄŸâè­.
+s
+java:S1450"VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘8ÄŸâè­.
+H
+java:S1068"+Remove this unused "mParam1" private field.(•Íï‘8ÄŸâè­.
