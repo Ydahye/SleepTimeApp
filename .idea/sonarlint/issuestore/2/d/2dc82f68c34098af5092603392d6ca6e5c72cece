@@ -1,15 +1,17 @@
 
-l
-java:S1450"VRemove the "mParam2" field and declare it as a local variable in the relevant methods.(¡ˆ€ 
-M
-java:S1135"2Complete the task associated to this TODO comment.(ğï¢öúÿÿÿÿ
-M
-java:S1135&"2Complete the task associated to this TODO comment.(ßíŠÿÿÿÿÿ
-M
-java:S1135"2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ
-l
-java:S1450"VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘
 A
-java:S1068"+Remove this unused "mParam1" private field.(•Íï‘
+java:S1068#"+Remove this unused "mParam1" private field.(•Íï‘
+M
+java:S1135"2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ
+M
+java:S1135""2Complete the task associated to this TODO comment.(ğï¢öúÿÿÿÿ
 A
-java:S1068"+Remove this unused "mParam2" private field.(¡ˆ€ 
+java:S1068$"+Remove this unused "mParam2" private field.(¡ˆ€ 
+l
+java:S1450$"VRemove the "mParam2" field and declare it as a local variable in the relevant methods.(¡ˆ€ 
+l
+java:S1450#"VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘
+M
+java:S11352"2Complete the task associated to this TODO comment.(ßíŠÿÿÿÿÿ
+u
+java:S1450!"XRemove the "lineChart" field and declare it as a local variable in the relevant methods.(Ü…è—8æäŒü®.

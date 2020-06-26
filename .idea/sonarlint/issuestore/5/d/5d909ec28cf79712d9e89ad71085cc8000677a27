@@ -1,18 +1,18 @@
 
-v
-java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î™Œ8À©·®.
 M
-java:S1135""2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ
-x	java:S116 "WRename this field "CameraButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò“äÜÿÿÿÿÿ8À©·®.
+java:S1135$"2Complete the task associated to this TODO comment.(ğï¢öúÿÿÿÿ
+A
+java:S1068%"+Remove this unused "mParam1" private field.(•Íï‘
+M
+java:S1135"2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ
+x	java:S116#"WRename this field "CameraButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò“äÜÿÿÿÿÿ8À©·®.
 T
-java:S11350"2Complete the task associated to this TODO comment.(ßíŠÿÿÿÿÿ8À©·®.
-A
-java:S1068("+Remove this unused "mParam1" private field.(•Íï‘
+java:S1135-"2Complete the task associated to this TODO comment.(ßíŠÿÿÿÿÿ8À©·®.
+v
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(Î™Œ8À©·®.
 l
-java:S1450("VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘
+java:S1450%"VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘
 A
-java:S1068)"+Remove this unused "mParam2" private field.(¡ˆ€ 
+java:S1068&"+Remove this unused "mParam2" private field.(¡ˆ€ 
 l
-java:S1450)"VRemove the "mParam2" field and declare it as a local variable in the relevant methods.(¡ˆ€ 
-M
-java:S1135'"2Complete the task associated to this TODO comment.(ğï¢öúÿÿÿÿ
+java:S1450&"VRemove the "mParam2" field and declare it as a local variable in the relevant methods.(¡ˆ€ 
